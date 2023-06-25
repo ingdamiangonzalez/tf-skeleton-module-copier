@@ -1,6 +1,6 @@
 # Copier Configuration
 _subdirectory: project
-# _templates_suffix: "template"
+_templates_suffix: "template"
 _skip_if_exists:
 - CHANGELOG.md
 _min_copier_version: "8.0.0"
