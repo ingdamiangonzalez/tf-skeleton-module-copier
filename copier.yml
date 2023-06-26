@@ -48,4 +48,4 @@ minimum_pre_commit_version:
 tflint_aws_plugin_version:
   type: str
   help: The TFLint AWS Plugin version
-  default: '0.14.0'
+  default: '0.4.0'
