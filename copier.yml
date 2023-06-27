@@ -17,7 +17,7 @@ module_description:
 
 team_name:
   type: str
-  help: Your full name
+  help: Team name
 
 
 # enable_terraform_docs:
