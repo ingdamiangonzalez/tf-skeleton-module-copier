@@ -3,6 +3,8 @@
 
 {{ module_description }}
 
+Module created by {{ team_name }}
+
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 

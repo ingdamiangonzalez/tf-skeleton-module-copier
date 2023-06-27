@@ -15,7 +15,7 @@ module_description:
   type: str
   help: The description of your module
 
-author_fullname:
+team_name:
   type: str
   help: Your full name
 
